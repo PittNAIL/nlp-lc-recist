@@ -7,7 +7,7 @@ A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting 
 
 ---
 
-## 🚀 Features
+## Features
 
 - **Data Ingestion & Preprocessing**  
   Load raw clinical notes, apply cleaning, tokenization, and formatting for downstream NLP tasks.
@@ -29,7 +29,7 @@ A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting 
 
 ---
 
-## 📂 Repository Structure
+## Repository Structure
 
 \`\`\`
 .
@@ -57,7 +57,7 @@ A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting 
 
 ---
 
-## ⚙️ Installation
+## Installation
 
 1. **Clone the repo**  
    \`\`\`bash
@@ -79,7 +79,7 @@ A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting 
 
 ---
 
-## 💡 Usage
+## Usage
 
 ### 1. Run Full Pipeline
 
@@ -157,7 +157,7 @@ python app.py --host 0.0.0.0 --port 5000
 
 ---
 
-## 📝 Configuration
+## Configuration
 
 All hyperparameters and filepaths can be set via the top-level \`config/pipeline.yaml\`. Example:
 
@@ -184,7 +184,7 @@ paths:
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 1. Fork the repo  
 2. Create a feature branch (\`git checkout -b feature/my-new-feature\`)  
