@@ -1,9 +1,9 @@
-# NLP Lung Cancer RECIST Pipeline
+# NLP NSLC Treatement-Response Extraction Pipeline
 
 [![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting and evaluating treatment response (RECIST) endpoints from lung cancer clinical notes. This repository provides data processing, model training, inference, evaluation, and a lightweight web API for demonstration.
+A modular, end-to-end Natural Language Processing (NLP) pipeline for extracting and evaluating treatment response endpoints from Non-Small Cell Lung Cancer(NSCLS) clinical notes. This repository provides data processing, model training, inference, evaluation, and a lightweight web API for demonstration.
 
 ---
 
